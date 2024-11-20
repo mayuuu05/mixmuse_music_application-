@@ -22,6 +22,14 @@ Welcome to the **MixMuse Music Application**, your ultimate music companion! ðŸŽ
   <img src="https://github.com/user-attachments/assets/90b9fbf9-7f89-459d-8fad-7352150d45ce" height="35%" width="22%" />
 </div>
 
+<div align="center">
+  <video height="450" src="https://github.com/user-attachments/assets/80ba239d-7fc8-4ba6-b123-efa355abd6a7" controls />
+</div>
+
+
+
+
+
 
 
 
