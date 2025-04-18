@@ -1,9 +1,4 @@
 
-
-
-
-
-
 # MixMuse Music Application 🎶
 
 Welcome to the **MixMuse Music Application**, your ultimate music companion! 🎧 With a sleek, modern design and powerful features, MixMuse brings your music to life with the best tracks, personalized playlists, and easy navigation. 🚀
@@ -25,11 +20,6 @@ Welcome to the **MixMuse Music Application**, your ultimate music companion! �
 <div align="center">
   <video height="450" src="https://github.com/user-attachments/assets/80ba239d-7fc8-4ba6-b123-efa355abd6a7" controls />
 </div>
-
-
-
-
-
 
 
 
