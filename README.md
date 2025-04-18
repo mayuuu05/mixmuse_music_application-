@@ -38,3 +38,4 @@ dependencies:
   flutter:
     sdk: flutter
   just_audio: ^0.9.18
+```
